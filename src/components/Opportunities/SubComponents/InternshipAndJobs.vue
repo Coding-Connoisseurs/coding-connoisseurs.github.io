@@ -6,7 +6,7 @@
         <p class="card-text">
           {{ ele.description }}
         </p>
-        <a :href="`${ele.link}`">
+        <a :href="`${ele.link}`" target="_blank">
           <button type="button" class="btn btn-light">View Website</button>
         </a>
       </div>

@@ -18,7 +18,7 @@
           <strong>Team Size: </strong>
           {{ ele.teamSize }}
         </p>
-        <a :href="`${ele.link}`">
+        <a :href="`${ele.link}`" target="_blank">
           <button type="button" class="btn btn-light">Get Started</button>
         </a>
       </div>

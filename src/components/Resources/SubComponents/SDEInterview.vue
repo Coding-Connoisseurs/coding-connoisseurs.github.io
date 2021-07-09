@@ -9,7 +9,7 @@
           <p class="card-text">
             {{ el.description }}
           </p>
-          <a :href="`${el.link}`">
+          <a :href="`${el.link}`" target="_blank">
             <button type="button" class="btn btn-light">Get Started</button>
           </a>
         </div>

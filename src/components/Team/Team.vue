@@ -16,7 +16,7 @@
           <div class="card-body">
             <h5 class="card-title">{{ member.name }}</h5>
             <p class="card-text">
-              <a class="btn btn-light" :href="`https://github.com/${member.githubHandle}`"
+              <a class="btn btn-light" :href="`https://github.com/${member.githubHandle}`" target="_blank"
                 >View On Github</a
               >
             </p>

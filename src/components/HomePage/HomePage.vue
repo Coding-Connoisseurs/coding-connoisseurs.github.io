@@ -4,7 +4,7 @@
       <h1 class="display-2 fw-bolder">Coding Connoisseurs, FoET</h1>
       <div class="divider" />
       <h5 class="mb-5">
-        we aim to build a close knit community of coding enthusiasts to a better network,
+        We aim to build a close knit community of coding enthusiasts to a better network,
         opportunities, discussions and mentorship. the aim of the club is to improve the overall
         programming culture at FoET-LU.
       </h5>

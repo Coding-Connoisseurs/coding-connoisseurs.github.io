@@ -61,4 +61,9 @@ const router = createRouter({
   ],
 });
 
+router.beforeEach((to, from, next) => {
+  if (to.name === 'oppurtunities' && from.name === 'opensource') next({ name: 'home' });
+  else next();
+});
+
 export default router;
