@@ -30,12 +30,24 @@
     <a href="https://github.com/Priyanshi-Rai/coding-connoisseurs.github.io"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com//coding-connoisseurs.github.io">View Demo</a>
-    ·
+    <!--*<a href="https://github.com//coding-connoisseurs.github.io">View Demo</a>-->
+    |
     <a href="https://github.com/Priyanshi-Rai/coding-connoisseurs.github.io/issues">Report Bug</a>
-    ·
+    |
     <a href="https://github.com/Priyanshi-Rai/coding-connoisseurs.github.io/issues">Request Feature</a>
+    |
   </p>
+</p>
+
+
+
+<br />
+<p align="center">
+  <a href="https://github.com/Priyanshi-Rai/coding-connoisseurs.github.io">
+    <img src="https://github.com/Priyanshi-Rai/coding-connoisseurs.github.io/blob/master/src/assets/logo_codingclub-removebg-preview.png" alt="Logo" width="200" height="200">
+  </a>
+
+  <h2 align="center"><B><U>MOTTO></B></h2>
 </p>
 
 
@@ -51,17 +63,15 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#tour">Tour</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#Opportunities">Opportunities</a></li>
+        <li><a href="#Resources">Resources</a></li>
+        <li><a href="#Events">Events</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <!--<li><a href="#contact">Contact</a></li>-->
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
@@ -73,96 +83,74 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+Having a website with friendly interface is a dream of every college student where they can get all the useful information about their career and if this website is created **by the students , for the student and to the student** is like free extra cheese on the pizza.
 
+_You may be thinking why we need it:_
+* Your time should be focused on creating something amazing. A project that solves a problem and helps others instead of searching where and what to do.
+* There are many opportunities which we are unaware of, this website is like a room with so many windows and doors for you.
+* Working smartly is the need of today's era.
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [vue](https://vuejs.org/)
+* [javascript](https://www.javascript.com/)
+* [html](https://www.w3schools.com/html/default.asp)
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## TOUR
 
-To get a local copy up and running follow these simple steps.
+This websites has different section as per your requirements.
+* OPPORTUNITIES
+* RESOURCES
+* EVENTS
 
-### Prerequisites
+### Opportunities
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+   _This section of website will help aware you about the Open Source, Competitive Programming, Developors clubs , Internship and Job_
+ 
 
-### Installation
+### Resources
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
+        _We have a lot of resources around us all we need is to grab it._
 
 
+           
+ 
+   Don't confuses schooling with education
+  
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
-
+### Events
+     _The upcoming events will be informed in this section_
 
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
+_Very simple steps..._
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+2. Create an issue or make the changes you want
+3. Commit your Changes
+4. Open a Pull Request
 
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-<!-- CONTACT -->
+<!-- CONTACT 
 ## Contact
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
+-->
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+Thanking our seniors for creating this platform for us.
+* [Arjun Sir]
+
 
 
 
