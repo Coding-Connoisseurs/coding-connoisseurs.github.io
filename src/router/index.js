@@ -24,7 +24,7 @@ import CodeofConduct from '../components/Events/SubComponents/CodeofConduct.vue'
 import Team from '../components/Team/Team.vue';
 const router = createRouter({
   history: createWebHistory(),
-  scrollBehavior(to, from, savedPosition) {
+  scrollbehaviour(to, from, savedPosition) {
     return new Promise((resolve, reject) => {
       setTimeout(() => {
         resolve({ left: 0, top: 0 });

@@ -49,7 +49,7 @@
  
  @media (prefers-reduced-motion: no-preference) {
    :root {
-     scroll-behavior: smooth;
+     scroll-behaviour: smooth;
    }
  }
  

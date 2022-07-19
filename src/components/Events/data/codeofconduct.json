@@ -1,11 +1,11 @@
 [
   {
     "name": "Code of Conduct",
-    "description": "This workshop is dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this workshop, participants accept to abide by this Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. We do not tolerate behavior that is disrespectful or that excludes, intimidates, or causes discomfort to others. We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to, gender identity and expression, sexual orientation, disability, physical appearance, body size, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, genetic information, religion or belief (or lack thereof), membership of a national minority, property, age, education, socio-economic status, technical choices, and experience level.  Everyone who participates in workshop activities is required to conform to this Code of Conduct. It applies to all spaces managed by or affiliated with the workshop, including, but not limited to, workshops, email lists, and online forums such as GitHub, Slack and Twitter. Workshop hosts are expected to assist with the enforcement of the Code of Conduct. By participating, participants indicate their acceptance of the procedures by which the workshop resolves any Code of Conduct incidents, which may include storage and processing of their personal information."   
+    "description": "This workshop is dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this workshop, participants accept to abide by this Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. We do not tolerate behaviour that is disrespectful or that excludes, intimidates, or causes discomfort to others. We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to, gender identity and expression, sexual orientation, disability, physical appearance, body size, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, genetic information, religion or belief (or lack thereof), membership of a national minority, property, age, education, socio-economic status, technical choices, and experience level.  Everyone who participates in workshop activities is required to conform to this Code of Conduct. It applies to all spaces managed by or affiliated with the workshop, including, but not limited to, workshops, email lists, and online forums such as GitHub, Slack and Twitter. Workshop hosts are expected to assist with the enforcement of the Code of Conduct. By participating, participants indicate their acceptance of the procedures by which the workshop resolves any Code of Conduct incidents, which may include storage and processing of their personal information."   
   },
   {
     "name": "Expected Behaviour",
-    "description": "All participants in our events and communications are expected to show respect and courtesy to others. All interactions should be professional regardless of platform: either online or in-person. In order to foster a positive and professional learning environment we encourage the following kinds of behaviors in all workshop events and platforms:",
+    "description": "All participants in our events and communications are expected to show respect and courtesy to others. All interactions should be professional regardless of platform: either online or in-person. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all workshop events and platforms:",
     "points1": "-> Use welcoming and inclusive language.",
     "points2": "-> Be respectful of different viewpoints and experiences.",
     "points3": "-> Gracefully accept constructive criticism.",
@@ -13,8 +13,8 @@
     "points5": "-> Show courtesy and respect towards other community members."
   },
   {
-    "name": "Unacceptable behavior",
-    "description":"Examples of unacceptable behavior by participants at any workshop event/platform include:",
+    "name": "Unacceptable behaviour",
+    "description":"Examples of unacceptable behaviour by participants at any workshop event/platform include:",
     "points1": "-> Written or verbal comments which have the effect of excluding people on the basis of membership of any specific group.",
     "points2": "-> Causing someone to fear for their safety, such as through stalking, following, or intimidation.",
     "points3": "-> Violent threats or language directed against another person.",
@@ -29,10 +29,10 @@
     "points12":"-> Publication of private communication without consent."
   },
   {
-    "name": "Consequences of Unacceptable behavior",
+    "name": "Consequences of Unacceptable behaviour",
     "description": "If you believe someone is violating the Code of Conduct, we ask that you report it to any of the workshop organizers. This is a community-led workshop, and we value the involvement of everyone in the community. We are committed to creating a friendly and respectful place for learning, teaching and contributing. All participants in our events and communications are expected to show respect and courtesy to others.",
     "points1": "To make clear what is expected, everyone participating in this conference and its activities is required to conform to the Code of Conduct. This Code of Conduct applies to all spaces affiliated with the conference, but not limited to, workshops, email lists, and online forums such as GitHub, Slack and Twitter. Workshop organizers are expected to assist with the enforcement of the Code of Conduct.    ",
-    "points2": "Participants who are asked to stop any inappropriate behavior are expected to comply immediately. This applies to any workshop events and platforms, either online or in-person. If a participant engages in behavior that violates this code of conduct, the organizers may warn the offender, ask them to leave the event or platform, or investigate the Code of Conduct violation and impose appropriate sanctions."
+    "points2": "Participants who are asked to stop any inappropriate behaviour are expected to comply immediately. This applies to any workshop events and platforms, either online or in-person. If a participant engages in behaviour that violates this code of conduct, the organizers may warn the offender, ask them to leave the event or platform, or investigate the Code of Conduct violation and impose appropriate sanctions."
   },
   {
     "name": "Penalty",
@@ -45,9 +45,6 @@
     "points1": "-> Chiranjeev Veer Srivastava - 6306576168",
     "points2": "-> Priyanshi Rai - 6399006589",
     "points3": "   Email :- cc.foet@gmail.com"
-   
-    
-   
   }
 
 ]
